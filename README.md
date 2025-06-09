@@ -1,6 +1,8 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Proyecto que simula un cine con salas, asientos, espectadores, peliculas, etc.
+
+Tiene por objetivo manipular el ingreso aleatoreo de gente y cobrar entradas, asignar otras peliculas o asientos cuando no estan disponibles, etc.
 
 ## Folder Structure
 
